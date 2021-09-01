@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.cursorStyle": "line",
+  "vim.cursorStylePerMode.insert": "line",
+  "vim.cursorStylePerMode.normal": "line"
+}
